@@ -1,0 +1,10 @@
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityTutorial.dll.config
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityTutorial.dll
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityTutorial.pdb
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityFramework.dll
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityFramework.SqlServer.dll
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityFramework.xml
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\bin\EntityFramework.SqlServer.xml
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.csprojResolveAssemblyReference.cache
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.dll
+D:\Practice\MVC Practice Programs\EntityTutorial\EntityTutorial\obj\Debug\EntityTutorial.pdb
